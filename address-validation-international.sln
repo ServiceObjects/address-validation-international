@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "address-validation-international-dot-net", "address-validation-international-dot-net\address-validation-international-dot-net.csproj", "{BD6C06F7-49EC-41AA-98FF-E58431EEC404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "address-validation-international-dot-net-examples", "address-validation-international-dot-net-examples\address-validation-international-dot-net-examples.csproj", "{F3903FE5-50F3-41BC-A976-94731F489492}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "address-validation-international-nodejs", "address-validation-international-nodejs\address-validation-international-nodejs.esproj", "{3C472428-21FE-2262-77E8-8C07CC5D3A52}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "address-validation-international-nodejs-examples", "address-validation-international-nodejs-examples\address-validation-international-nodejs-examples.esproj", "{04E101A4-6B48-FB0C-A59D-FC3A1FB3D378}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "address-validation-international-python", "address-validation-international-python\address-validation-international-python.pyproj", "{8DCE0A87-AB14-4198-9C79-9F2BA9516420}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "address-validation-international-python-examples", "address-validation-international-python-examples\address-validation-international-python-examples.pyproj", "{545227A1-542C-4AEC-BBFE-97B44BDD1485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD6C06F7-49EC-41AA-98FF-E58431EEC404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6C06F7-49EC-41AA-98FF-E58431EEC404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6C06F7-49EC-41AA-98FF-E58431EEC404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6C06F7-49EC-41AA-98FF-E58431EEC404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3903FE5-50F3-41BC-A976-94731F489492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3903FE5-50F3-41BC-A976-94731F489492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3903FE5-50F3-41BC-A976-94731F489492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3903FE5-50F3-41BC-A976-94731F489492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C472428-21FE-2262-77E8-8C07CC5D3A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C472428-21FE-2262-77E8-8C07CC5D3A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C472428-21FE-2262-77E8-8C07CC5D3A52}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3C472428-21FE-2262-77E8-8C07CC5D3A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C472428-21FE-2262-77E8-8C07CC5D3A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C472428-21FE-2262-77E8-8C07CC5D3A52}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{04E101A4-6B48-FB0C-A59D-FC3A1FB3D378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E101A4-6B48-FB0C-A59D-FC3A1FB3D378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E101A4-6B48-FB0C-A59D-FC3A1FB3D378}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{04E101A4-6B48-FB0C-A59D-FC3A1FB3D378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E101A4-6B48-FB0C-A59D-FC3A1FB3D378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E101A4-6B48-FB0C-A59D-FC3A1FB3D378}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8DCE0A87-AB14-4198-9C79-9F2BA9516420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCE0A87-AB14-4198-9C79-9F2BA9516420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545227A1-542C-4AEC-BBFE-97B44BDD1485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545227A1-542C-4AEC-BBFE-97B44BDD1485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A85D957D-31F5-49F3-BC16-E18CC3E04E66}
+	EndGlobalSection
+EndGlobal
